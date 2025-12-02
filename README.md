@@ -157,7 +157,7 @@ Para um fluxo de trabalho completo de impressão 3D, considere também:
 
 - **Slicers** (Fatiadores):
   - [Cura](https://ultimaker.com/software/ultimaker-cura) - Gratuito e popular
-  - [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/) - Excelente para várias impressoras
+  - [PrusaSlicer](https://www.prusa3d.com/prusaslicer/) - Excelente para várias impressoras
   - [SuperSlicer](https://github.com/supermerill/SuperSlicer) - Fork avançado do PrusaSlicer
 
 - **Visualizadores de STL**:
