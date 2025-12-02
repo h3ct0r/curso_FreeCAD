@@ -187,7 +187,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## ✉️ Contato
 
-**Héctor Azpúrua**
+**Héctor Azpúrua** (https://h3ct0r.github.io/)
 
 Para dúvidas, sugestões ou colaborações, sinta-se à vontade para abrir uma issue no GitHub.
 
