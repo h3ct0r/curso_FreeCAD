@@ -1,6 +1,6 @@
 # Curso Introdutório de FreeCAD para Makers e Impressão 3D
 
-![FreeCAD Logo](https://wiki.freecad.org/images/thumb/6/6e/Freecad_default.jpg/400px-Freecad_default.jpg)
+[![FreeCAD Logo](https://wiki.freecad.org/images/thumb/6/6e/Freecad_default.jpg/400px-Freecad_default.jpg)](https://wiki.freecad.org/images/thumb/6/6e/Freecad_default.jpg/400px-Freecad_default.jpg)
 
 ## 📋 Sobre o Curso
 
