@@ -5,6 +5,10 @@ __pycache__/
 
 *.FCBak
 
+dont_sync
+dont_sync/
+dont_sync/*
+
 # C extensions
 *.so
 
