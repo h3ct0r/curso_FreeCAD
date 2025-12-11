@@ -38,26 +38,34 @@ Este curso é ideal para:
 
 ## 📚 Conteúdo do Curso
 
-### Módulo 1: Introdução ao FreeCAD
+### Módulo 1: Introdução ao FreeCAD e Modelagem Direta
 - O que é FreeCAD e suas vantagens
 - Instalação e configuração
 - Interface e navegação 3D
 - Conceitos de modelagem paramétrica
 - Principais workbenches (ambientes de trabalho)
+- Modelagem simples utilizando primitivas geometricas (Part workbench)
+- Exercício prático
 
-### Módulo 2: Sketcher - Desenhando em 2D
+### Módulo 2: Sketcher - Desenhando em 2D, e Part Design - Modelagem 3D
 - Criação de esboços (sketches)
 - Ferramentas de desenho básicas
 - Restrições geométricas e dimensionais
-- Boas práticas para sketches
-- Exercícios práticos
+- Pad (extrusão) e Pocket (corte)
+- Revolução
+- Fillets (arredondamento) e Chamfers (chanfros)
+- Exercício prático
 
-### Módulo 3: Part Design - Modelagem 3D
+### Módulo 3: Part Design - Modelagem 3D (parte 2)
+- Criação de esboços (sketches)
+- Ferramentas de desenho básicas
+- Restrições geométricas e dimensionais
 - Pad (extrusão) e Pocket (corte)
 - Revolução e Loft
 - Operações booleanas
 - Patterns (padrões) e Mirror (espelhamento)
 - Fillets (arredondamento) e Chamfers (chanfros)
+- Exercício prático
 
 ### Módulo 4: Modelagem para Impressão 3D
 - Considerações de design para impressão 3D
@@ -65,21 +73,7 @@ Este curso é ideal para:
 - Orientação e suportes
 - Espessura de paredes
 - Preparação e exportação de arquivos STL
-- Verificação de malhas
-
-### Módulo 5: Projetos Práticos
-- Projeto 1: Peça mecânica simples
-- Projeto 2: Caixa/case personalizado
-- Projeto 3: Suporte ou bracket funcional
-- Projeto 4: Peça com encaixes e roscas
-- Projeto 5: Montagem com múltiplas peças
-
-### Módulo 6: Técnicas Avançadas para Makers
-- Assembly (montagens)
-- Criação de roscas e encaixes
-- Importação e modificação de modelos existentes
-- Uso do TechDraw para documentação
-- Dicas e truques para otimização
+- Fatiamento e impressão de um objeto
 
 ## 🛠️ Instalação do FreeCAD
 
