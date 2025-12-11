@@ -9,6 +9,8 @@ dont_sync
 dont_sync/
 dont_sync/*
 
+.DS_Store
+
 # C extensions
 *.so
 
